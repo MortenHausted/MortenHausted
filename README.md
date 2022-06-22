@@ -1,3 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MortenHausted&count_private=true&theme=prussian&include_all_commits=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=MortenHausted&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MortenHausted&layout=compact&langs_count=10&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MortenHausted&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
